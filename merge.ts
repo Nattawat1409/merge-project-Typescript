@@ -1,4 +1,5 @@
 export function merge(
+// Create each array and prepare for merge three sorted arrays into a single sorted array //
   collection_1: number[],
   collection_2: number[],
   collection_3: number[]
@@ -29,6 +30,7 @@ export function merge(
       value3 = collection_3[k];
     }
     
+    // compare values and push the smallest one to result, then move the corresponding index //
     if (value1 <= value2 && value1 <= value3) {
       result.push(value1);
       i++;
