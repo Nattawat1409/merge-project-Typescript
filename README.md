@@ -35,12 +35,7 @@ npm --version
 
 ## ขั้นตอนที่ 3: เปิด Terminal ในโฟลเดอร์
 
-### Windows:
-1. เปิดโฟลเดอร์ `merge-project-Typescript`
-2. กด Shift + คลิกขวาในโฟลเดอร์
-3. เลือก "Open PowerShell window here" หรือ "Open in Terminal"
-
-### หรือใช้ VS Code:
+### ใช้ Terminal ของ VS Code:
 1. เปิด VS Code
 2. File > Open Folder > เลือกโฟลเดอร์ของคุณ
 3. Terminal > New Terminal
