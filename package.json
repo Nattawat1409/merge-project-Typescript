@@ -1,0 +1,25 @@
+{
+    "name": "merge-project-typescript",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@types/jest": "^27.0.0",
+        "ts-jest": "^29.4.6",
+        "typescript": "^5.9.3"
+    },
+    "description": "For Primo pre-test as a Full-stack developer (intern)",
+    "main": "jest.config.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nattawat1409/merge-project-Typescript.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nattawat1409/merge-project-Typescript/issues"
+    },
+    "homepage": "https://github.com/Nattawat1409/merge-project-Typescript#readme"
+}
